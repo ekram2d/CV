@@ -1,0 +1,121 @@
+*{
+
+
+    margin: 0;
+    padding: 0;
+}
+
+body{
+
+
+    background-color:rgb(114, 105, 105);
+    font-family: 'Josefin Sans', sans-serif;
+    color: black;
+   font-weight: bold;
+    
+}
+.container{
+    max-width: 1000px;
+    background-color:rgb(195, 192, 192);
+    margin: auto;
+    padding: 20px;
+}
+header{
+
+}
+.profile-image{
+    width: 120px;
+    height: 125px;
+    border: 3px solid white;
+    border-radius: 68px;
+    float: left;
+}
+
+.header-bio{
+    float: left;
+    padding: 30px;
+    font-size: 20px;
+
+}
+.header-contact{
+
+    float: left;
+    padding: 40px;
+   
+   
+}
+
+.header-contact a{
+
+float: right;
+    
+   
+    color: rgb(240, 248, 9);
+    font-size: 12px;
+
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 15px;
+    
+}
+
+.header-contact a:hover{
+color:white;
+
+text-decoration: underline;
+
+
+}
+.div-clear{
+  clear: both;
+}
+.common-hr{
+
+    border: solid rgb(124, 189, 27) 3px;
+    width: 100%;
+    margin: 2px auto;
+    
+    
+    border-bottom: none;
+    
+}
+#personal-section{
+    
+}
+.content{
+    padding: 5px;
+    margin: 20px;
+
+}
+.div-left{
+
+ 
+    width: 30%;
+    float: left;
+    
+    font-size: 15px;
+    
+}
+.div-right{
+    
+    float: left;
+   
+width: 70%;
+
+font-size: 18px;
+
+
+}
+.div-right a{
+  
+
+    text-decoration: none;
+    color: yellow
+}
+.div-right a:hover{
+  
+
+   
+    color: rgb(245, 245, 245);
+    text-decoration: underline;
+}
